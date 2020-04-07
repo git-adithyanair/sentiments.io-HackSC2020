@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>701427797463-0ua1hluobbemgdc2sd3ee9s15k89q8hs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.701427797463-0ua1hluobbemgdc2sd3ee9s15k89q8hs</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBECeckx_BVZCFQkv8B8Jhp-AKBbLj364E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>701427797463</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.adithyanair.HackSC-Project</string>
+	<key>PROJECT_ID</key>
+	<string>hacksc-project</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hacksc-project.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:701427797463:ios:277881005f4cde3ac24f92</string>
+	<key>DATABASE_URL</key>
+	<string>https://hacksc-project.firebaseio.com</string>
+</dict>
+</plist>

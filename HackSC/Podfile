@@ -1,0 +1,15 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '13.0'
+
+target 'HackSC Project' do
+
+  use_frameworks!
+
+  # Pods for HackSC Project
+  pod 'Firebase/Auth'
+  pod 'Firebase/Firestore'
+  pod 'Firebase/MLVision'
+  pod 'Charts'
+  pod 'IQKeyboardManagerSwift'
+
+end
