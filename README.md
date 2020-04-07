@@ -25,7 +25,7 @@ Only do this if you haven't installed Cocoapods before.
 
 1. Download the project files.
 
-2. Open the shell window and navigate to the QWER-Hacks directory.
+2. Open the shell window and navigate to the HackSC directory.
 
 3. Run ``` pod install ```.
 
